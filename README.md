@@ -1,6 +1,9 @@
 CUED PhD thesis template
 ========================
 
+## Imported from CUED PhD thesis template and marked for future usage.
+I sincerely wish I can have chance to use it once again.
+
 [![Join the chat at https://gitter.im/kks32/phd-thesis-template](https://badges.gitter.im/kks32/phd-thesis-template.svg)](https://gitter.im/kks32/phd-thesis-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department.
 
